@@ -6,6 +6,6 @@ DOI stands for **D**igital **O**bject **I**dentifier. They're used as a way to l
 
 > For more information on the DOI itself, which is a NISO standard syntax, please visit the International DOI Foundation website at www.doi.org. For details on use of the DOI within Crossref, please see the "How Crossref Works" page.
 
-> See more at: http://www.crossref.org/01company/16fastfacts.html#sthash.aSBsVFta.dpuf
+> See more at: https://www.crossref.org/services/content-registration/
 
 The key to this statement is that a DOI is _unique_. Any article should only have one unique combination of a DOI prefix and suffix. Articles should also, ideally, only have one DOI each.
